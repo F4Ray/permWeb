@@ -5,7 +5,8 @@
 	<title>Modularitas</title>
 </head>
 <body>
-
+<a href="https://github.com/F4Ray/permWeb">Kodenya ada disini</a>
+<br/>
 <a href="index.php"> Home </a>   |
 <a href="about.php"> About </a>   |
 <a href="link.php"> Links </a>   |
